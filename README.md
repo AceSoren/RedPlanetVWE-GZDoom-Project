@@ -10,6 +10,5 @@ Figure out how to score based on speed and score region entries<br>
 Post to ZDoom forum, get criticism<br>
 Improve until satisfied (or until there's a bug discovered)<br>
 
-## Potentials
-Zandronum version for proper multiplayer chaos (WILL include Martian Football mode, just isn't the same without it)<br>
-New maps WILL have to be made, since my GZDoom project will use a fair amount of slopes, which only GZDoom can do.<br>
+## Correction about Zandronum plans
+ZikShadow has given me word that GZDoom multiplayer is indeed possible. Thanks to this knowledge I am COMPLETELY abandoning my plans for Zandronum since it's quite limited for my purpose anyways.
