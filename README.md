@@ -6,7 +6,7 @@ A (crazy) attempt to recreate Red Planet in GZDoom, with no real focus at the mo
 2. Working on the door design specific to Red Planet, as well as timing them in a way that's faithful to Red Planet in general.
 3. Getting references for the Bug Class VTV to self model it.<br>
 Objectives list will be here <a href="https://github.com/AceSoren/RedPlanetVWE-GZDoom-Project/blob/main/Objectives.md">Objectives</a><br>
-What I've completed can be seen here <a href"https://github.com/AceSoren/RedPlanetVWE-GZDoom-Project/blob/main/DoneSoFar.md">"Done So far"</a>
+What I've completed can be seen here <a href="https://github.com/AceSoren/RedPlanetVWE-GZDoom-Project/blob/main/DoneSoFar.md">"Done So far"</a>
 
 ## The first MAJOR objectives
 Make the Flea hovercraft. The fastest of the ships that I know of, but one sneeze is all it takes to send you back to respawn<br>
