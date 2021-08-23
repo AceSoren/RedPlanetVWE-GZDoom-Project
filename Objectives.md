@@ -6,3 +6,4 @@
 4. Get OBB collision in play, allowing 3-Dimensionally rotatng actor hitboxes
 5. Implement OBB override for Normals when that gets implemented into GZDoom
 6. Implement speed based crash damage
+7. Make the Bug class VTV model and textures, sort texture names in DOOM nomenclature
