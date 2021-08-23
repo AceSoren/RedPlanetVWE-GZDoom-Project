@@ -2,9 +2,6 @@
 A (crazy) attempt to recreate Red Planet in GZDoom, with no real focus at the moment. Gonna be SLOW at first.
 
 ## What I'm busy with in this project
-1. Dropping reliance on Doom/Doom 2 textures.
-2. Working on the door design specific to Red Planet, as well as timing them in a way that's faithful to Red Planet in general.
-3. Getting references for the Bug Class VTV to self model it.<br>
 Objectives list will be here <a href="https://github.com/AceSoren/RedPlanetVWE-GZDoom-Project/blob/main/Objectives.md">Objectives</a><br>
 What I've completed can be seen here <a href="https://github.com/AceSoren/RedPlanetVWE-GZDoom-Project/blob/main/DoneSoFar.md">"Done So far"</a>
 
