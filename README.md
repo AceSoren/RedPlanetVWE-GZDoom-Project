@@ -6,7 +6,7 @@ Objectives list will be here <a href="https://github.com/AceSoren/RedPlanetVWE-G
 What I've completed can be seen here <a href="https://github.com/AceSoren/RedPlanetVWE-GZDoom-Project/blob/main/DoneSoFar.md">"Done So far"</a>
 
 ## The first MAJOR objectives
-Make the Flea hovercraft. The fastest of the ships that I know of, but one sneeze is all it takes to send you back to respawn<br>
+Make the Speck VTV. The fastest of the ships that I know of, but one sneeze is all it takes to send you back to respawn<br>
 Make a map that compliments the hovercrafts. Doesn't have to be Kiwi's Karma or Shroom's Lair, but it will have lanes, doors and score regions<br>
 Figure out how to score based on speed and score region entries<br>
 
