@@ -1,0 +1,13 @@
+Agent_Ash (Jekyll Grim Payne), Boondori, ZikShadow, NashMuhandes, Weasel - FOR HELPING ME, AN ABSOLUTE NOOB AT ZSCRIPT
+NashMuhandes - Pointing me towards his RadiusDebug ingame tool
+Virtual World Entertainment - Red Planet sounds and imagery (namely Red Planet 3.0 and Tesla)
+Me - Coding and modeling, including Red Planet VTV recreations and originals
+ID Software - IDTech1 Engine
+GZDoom Team - GZDoom Source Port
+ZScript - Putting me through trial by fire. Seriously, it's a wild ride working with it for me.
+ACS - For ANOTHER trial by fire. I had an awkward situation with my poly doors, so you saved my tush
+Slade3 - My go to for coding and imagery
+Ultimate Doom Builder - My go to for mapping and Normal texture application
+ZDoom Wiki - Being there for the information I needed
+Doom 2 - The PLAYPAL palette used here before I went "balls to the wall" with the total conversion idea
+Hope to God I didn't miss anyone.

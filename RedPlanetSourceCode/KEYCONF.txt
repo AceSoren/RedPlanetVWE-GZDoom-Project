@@ -1,0 +1,16 @@
+addkeysection "Red Planet VTV Additional" "Redplanet.ini"
+addmenukey "Slip" +Slip
+addmenukey "Boost 1" +Boost1
+addmenukey "Boost 2" +Boost2
+addmenukey "Reverse Camera" +ReverseCam
+addmenukey "Slide" +Slide
+
+addkeysection "Red Planet VTV WCS"
+addmenukey "Weapon 1 (if applicable)" +Gun1
+addmenukey "Weapon 2 (if applicable)" +Gun2
+
+addkeysection "Red Planet VTV FCS"
+
+
+clearplayerclasses
+addplayerclass "PrototypeCraft"

@@ -1,0 +1,9 @@
+iwad
+{
+	Name = "Red Planet for GZDoom"
+	AutoName = "RPGZ"
+	Config = "RedPlanetGZ"
+	MustContain = "RedPlanetGZ"
+	BannerColors = "77 d9 77", "00 44 00"
+	IWADNAME = "RedplanetProto.pk3"
+}

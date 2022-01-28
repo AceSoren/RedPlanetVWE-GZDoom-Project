@@ -1,0 +1,1 @@
+Script ThrustThingZ (0, 10, 0, 1)

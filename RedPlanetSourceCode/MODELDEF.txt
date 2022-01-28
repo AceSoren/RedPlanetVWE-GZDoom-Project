@@ -1,0 +1,16 @@
+Model PrototypeCraft
+{
+	Path "Models/PrototypeCraft"
+	Model 0 "RedPlanetProto3.obj"
+	Skin 0 "skin/genericred"
+	Offset 64 64 32
+	Scale 46 46 46
+	FrameIndex PROT A 0 0
+	ZOffset 32
+	RollOffset 32
+	
+	USEACTORPITCH
+	USEACTORROLL
+	INTERPOLATEDOUBLEDFRAMES
+	
+}

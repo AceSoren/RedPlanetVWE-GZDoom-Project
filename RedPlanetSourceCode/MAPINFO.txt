@@ -1,0 +1,33 @@
+GameInfo
+{
+	playerclasses = "PrototypeCraft"
+	quitmessages = "Chickening out so soon?", "Oh gee, look at the time! You still got some room.", "Nothing like a latte after a tough race, ya think?", "OK."
+	lightmode = 5
+	gl_fogmode = Radial
+	iwad = "RedplanetProto.ipk3"
+}
+
+skill Neutral
+{
+	DisableCheats
+	NoPain
+	SpawnMulti
+	PlayerRespawn
+}
+
+clearepisodes
+
+Episode "map01"
+{
+	name = "Barker"
+}
+
+Episode "map02"
+{
+	name = "The Red Planet"
+}
+
+map MAP01 "Barker"
+{
+	sky1 = "Textures/Sky/RedPlanetSky"
+}
