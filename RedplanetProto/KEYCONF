@@ -1,16 +1,19 @@
 addkeysection "Red Planet VTV Additional" "Redplanet.ini"
-addmenukey "Slip" +Slip
+addmenukey "Slip (cuts thrusters)" +Slip
 addmenukey "Boost 1" +Boost1
-addmenukey "Boost 2" +Boost2
+addmenukey "Boost 2 (if applicable)" +Boost2
 addmenukey "Reverse Camera" +ReverseCam
-addmenukey "Slide" +Slide
+addmenukey "Slide (locks altitude)" +Slide
 
 addkeysection "Red Planet VTV WCS"
 addmenukey "Weapon 1 (if applicable)" +Gun1
 addmenukey "Weapon 2 (if applicable)" +Gun2
 
 addkeysection "Red Planet VTV FCS"
-
+addmenukey "Pitch thrusters" +ThrustPitch
+addmenukey "Accelerate" +Accel
+addmenukey "Braking Parachute" +Chute
+addmenukey "Air brakes" +Airbrake
 
 clearplayerclasses
 addplayerclass "PrototypeCraft"
